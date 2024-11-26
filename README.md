@@ -25,7 +25,3 @@
 Aprendendo Programação
 
 ## Alguns Projetos
-
-[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://bernardolopes-00.github.io/projeto-android/)
-[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://bernardolopes-00.github.io/projeto-cordel/)
-[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://bernardolopes-00.github.io/projeto-login/)
