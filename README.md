@@ -1,7 +1,5 @@
 <p align="center">
-  <a>
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=Ol%C3%A1+Pessoal%F0%9F%91%8B%F0%9F%8F%BC+Me+chamo+Bernardooo;Muito+Prazer+em+te+conhecer">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+Me+chamo+Bernardo+Muito+Prazer" alt="Typing SVG" /></a>
 </p>
 <h2 align="center">Desenvolvo Sites para Web</h2>
 
