@@ -13,7 +13,7 @@
  <img src="img/node-js.png" height="35px" width="35px">
  <img src="img/python.png" height="37px" width="37px">
  <br>
- <img alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+ <img alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" infinite/>
 </div>
 <br>
 
