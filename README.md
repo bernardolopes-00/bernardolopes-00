@@ -1,41 +1,49 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+Me+chamo+Bernardo+Muito+Prazer" alt="Typing SVG" /></a>
-</p>
-<h2 align="center">Desenvolvo Sites para Web</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<h3 >Tecnologias em Aprendizado<h3>
+###
 
-<div >
- <img src="img/html-5.png" height="35px" width="35px">
- <img src="img/css-3.png" height="35px" width="35px">
- <img src="img/js.png" height="35px" width="35px">
- <img src="img/react.png" height="35px" width="35px">
- <img src="img/node-js.png" height="35px" width="35px">
- <img src="img/python.png" height="37px" width="37px">
- <br>
- <img alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bernardolopes-00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardolopes-00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<br>
 
-<h1 align="center"></h1>
-<br>
-<h1 align=center>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="GitHub Metrics" align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bernardolopes-00&theme=tokyonight&border=61dafb&hide_border=true"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="GitHub Streak Stats" align="right" width=360 src="https://github-readme-stats.vercel.app/api?username=bernardolopes-00&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true"/>
-    </a>
-  </div>
-  <br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Top Langs" align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardolopes-00&hide=TeX&layout=compact&theme=tokyonight&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-<div>
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-  
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/bernardolopes-00/bernardolopes-00/output/snake.svg" alt="Snake animation" />
+
+###
