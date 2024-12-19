@@ -13,7 +13,7 @@
  <img src="img/node-js.png" height="35px" width="35px">
  <img src="img/python.png" height="37px" width="37px">
  <br>
- <img alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" infinite/>
+ <img alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320"/>
 </div>
 <br>
 
@@ -25,7 +25,7 @@
       <img alt="GitHub Metrics" align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bernardolopes-00&theme=tokyonight&border=61dafb&hide_border=true"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="GitHub Streak Stats" align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bernardolopes-00&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true"/>
+      <img alt="GitHub Streak Stats" align="right" width=360 src="https://github-readme-stats.vercel.app/api?username=bernardolopes-00&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true"/>
     </a>
   </div>
   <br><br><br><br><br>
