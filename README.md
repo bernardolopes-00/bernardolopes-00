@@ -29,8 +29,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Desafio Codelab](#)
-- [Desafio Frontend Mentor](#)
+- [Em breve](#)
 
 <!-- GIF -->
 <p align="left">
