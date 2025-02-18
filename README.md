@@ -8,7 +8,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, sou o Bernardo, um estudante apaixonado por Desenvolvimento Web, no Brasil!
+  Olá 👋, sou o Bernardo, um estudante apaixonado por Programação, no Brasil!
 
   - 🌱 Atualmente, estou me dedicando ao aprendizado de desenvolvimento front-end com <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
