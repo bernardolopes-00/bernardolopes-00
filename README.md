@@ -28,9 +28,10 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardolopes-00&show_icons=true&theme=vue-dark)
 
 <!-- Portfolio -->
-## Portfolio:
+<!-- ## Portfolio:
 - [Em breve](#)
 - [Em breve](#)
+-->
 
 <!-- GIF -->
 <p align="left">
